@@ -102,9 +102,10 @@ Once the app is running, here’s how to interact with it:
    Press the **"🔍 Analyze for Wildfire"** button under the image.  
    - If fire is detected: You’ll see **“🔥 Fire Detected!”**  
    - If not: You’ll see **“✅ No Fire Detected.”** 
-   A confidence score will also be shown.
+   
+   - A confidence score will also be shown.
 
----
+![Left Side](images/fire.png)
 
 ### 💬 Right Side – Chat with AI (RAG Q&A)
 
@@ -115,6 +116,8 @@ Once the app is running, here’s how to interact with it:
    - If the question **is related to wildfires**, you’ll get a helpful response along with **document sources** (e.g., FEMA, UNICEF).
    - If the question **is not related**, it will reply:  
      _"I couldn't find relevant information in the documents to answer your question."_
+
+![RAG](images/rag.png)
 
 ---
 
